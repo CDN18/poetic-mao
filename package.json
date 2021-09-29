@@ -1,0 +1,18 @@
+{
+  "name": "poetic_mao",
+  "version": "1.0.0",
+  "description": "Collection about Mao's Poetry",
+  "main": "index.js",
+  "author": "CDN <jxyo2015@gmail.com>",
+  "license": "C-Open",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-hope": "^1.20.3"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev contents-hope",
+    "docs:build": "vuepress build contents-hope",
+    "docs:clean-dev": "vuepress dev contents-hope --no-cache",
+    "docs:eject-theme": "vuepress eject-hope contents-hope"
+  }
+}
