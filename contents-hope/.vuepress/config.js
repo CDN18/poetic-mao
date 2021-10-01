@@ -35,7 +35,9 @@ module.exports = config({
     hostname: "http://mao.codeword.info",
 
     author: "CDN",
-    //repo: "https://",
+    repo: "https://github.com/CDN18/poetic-mao",
+    repoLabel: "GitHub",
+    docsDir: "contents-hope",
 
     feed: false,
 
@@ -288,7 +290,7 @@ module.exports = config({
       name: "CDN",
       intro: "/about/",
       sidebarDisplay: "none",
-      timeline: "暂未启用时间线",
+      timeline: "时间线",
       links: {
         QQ: "2452272195",
         Email: "cardinal@codeword.info",
