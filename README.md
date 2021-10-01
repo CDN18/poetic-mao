@@ -5,14 +5,15 @@
     <img src="contents-hope/.vuepress/public/logo_round.png" alt="Logo" width="156" height="156">
   </a>
   <h2 align="center" style="font-weight: 600">毛泽东诗词库</h2>
-
   <p align="center">
     Collection of Mao's Poetry
     <br />
-    <a href="https://music.qier222.com" target="blank"><strong>🌎 点击访问</strong></a>&nbsp;&nbsp;
+    <a href="https://mao.codeword.info" target="blank"><strong>🌎 点击访问</strong></a>&nbsp;&nbsp;
     <br />
     <br />
+      <!--本文件之前的代码来源于YesPlayMusic的README-->
   </p>
+
 
 ## 📜 使用许可
 
