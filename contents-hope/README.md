@@ -26,6 +26,4 @@ features:
     details: 项目说明、开发计划等
     link: /blog/
 
-copyrightText: false
-footer: For Educational Purposes only | Copyright © 2021 - Present CDN
 ---

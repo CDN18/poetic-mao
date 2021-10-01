@@ -1,5 +1,5 @@
 ---
-description: 目前正在制作第1版
+description: 已完成工作和TODO
 ---
 
 # 项目进度
@@ -27,7 +27,7 @@ description: 目前正在制作第1版
 - [x] 测试优化
 - [x] 代码审计和公开
 - [x] 正式部署
-- [ ] 提交sitemap
+- [x] 提交sitemap
 
 ### PDF版
 
