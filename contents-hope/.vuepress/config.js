@@ -4,7 +4,7 @@ module.exports = config({
   title: "毛泽东诗词库",
   description: "Collection of Mao's Poetry",
 
-  dest: "./dist",
+  dest: "./web",
 
   head: [
     [
@@ -32,7 +32,7 @@ module.exports = config({
 
   themeConfig: {
     logo: "/logo-small-round.png",
-    hostname: "http://mao.codeword.info",
+    hostname: "https://mao.codeword.info",
 
     author: "CDN",
     repo: "https://github.com/CDN18/poetic-mao",
@@ -305,7 +305,7 @@ module.exports = config({
 
     comment: {
       type: "waline",
-      serverURL: "http://wgcomment.codeword.info",
+      serverURL: "https://wgcomment.codeword.info",
     },
 
     /*
